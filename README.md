@@ -1,4 +1,4 @@
-# CS112-Project-4-Little-Search-Engine
+# CS112-DataStruct-Project-4-Little-Search-Engine
 
 Summary:
 
